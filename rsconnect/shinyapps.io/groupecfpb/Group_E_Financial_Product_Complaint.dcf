@@ -1,0 +1,12 @@
+name: Group_E_Financial_Product_Complaint
+title: Group_E_Financial_Product_Complaint
+username:
+account: groupecfpb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 914145
+bundleId: 2082058
+url: https://groupecfpb.shinyapps.io/Group_E_Financial_Product_Complaint/
+when: 1557798993.29536
+asMultiple: FALSE
+asStatic: FALSE
